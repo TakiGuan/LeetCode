@@ -27,8 +27,9 @@ class TreeNode:
 class Solution:
     def rightSideView(self, root: TreeNode) -> List[int]:
         """
-        对右侧元素和左侧元素分别回归调用该方法
-        根据题目含义，只返回右侧元素和超出右侧长度的左侧元素
+        对右侧元素和左侧元素分别回归调用该方法，根据题目含义，只返回从右侧能看到的元素：
+        - 优先返回右侧元素
+        - 当右侧节点不存在时，返回左侧节点
         """
         if not root:
             return []
