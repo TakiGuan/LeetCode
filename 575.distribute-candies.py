@@ -1,10 +1,10 @@
 """
-Description: 
+Description: Distribute Candies
 Version: 1
 Author: Taki Guan
 Date: 2021-03-02 08:14:44
 LastEditors: Taki Guan
-LastEditTime: 2021-03-02 13:08:23
+LastEditTime: 2021-03-03 08:14:01
 """
 #
 # @lc app=leetcode id=575 lang=python3
