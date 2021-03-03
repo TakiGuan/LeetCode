@@ -4,7 +4,7 @@ Version: 1
 Author: Taki Guan
 Date: 2021-03-03 08:17:31
 LastEditors: Taki Guan
-LastEditTime: 2021-03-03 08:22:15
+LastEditTime: 2021-03-03 09:27:17
 """
 #
 # @lc app=leetcode id=645 lang=python3
