@@ -1,12 +1,3 @@
-<!--
- * @Description: README File
- * @Version: 1
- * @Author: Taki Guan
- * @Date: 2021-01-02 20:31:01
- * @LastEditors: Taki Guan
- * @LastEditTime: 2021-02-09 08:41:39
--->
-
 # LeetCode
 
 This is the `LeetCode` code repo.
