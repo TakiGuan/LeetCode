@@ -4,7 +4,7 @@ Version: 1
 Author: Taki Guan
 Date: 2021-05-08 15:37:17
 LastEditors: Taki Guan
-LastEditTime: 2021-05-10 09:02:42
+LastEditTime: 2021-05-10 09:31:35
 """
 #
 # @lc app=leetcode id=906 lang=python3
@@ -21,6 +21,8 @@ class Solution:
         left = int(left)
         right = int(right)
 
+        # print(left, right)
+
         # L = int(math.sqrt(left))
         # R = int(math.sqrt(right))
 
@@ -29,7 +31,7 @@ class Solution:
 
         n1, n2 = (n1 - 1) // 2 + 1, (n2 - 1) // 2 + 1
 
-        print(n1, n2)
+        # print(n1, n2)
 
         start = 10 ** (n1 - 1)
         end = 10 ** n2
